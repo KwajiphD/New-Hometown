@@ -1,0 +1,86 @@
+body {
+    text-align: center;
+    color: blueviolet;
+   
+}
+
+#header {
+    background-image: url(images/Calabar-new.jpg);
+    background-size: contain;
+    background-repeat: no-repeat;
+    width: 600px;
+    height: 400px;
+    text-align: center;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: none;
+}
+
+h1 {
+    background-color: aqua;
+    width: 200px;
+    margin-top: 20px;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 2px 2px 2px 2px;
+    border-radius: 10px;
+
+}
+
+h3 {
+    background-color: aquamarine;
+    width: 400px;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 2px 2px 2px 2px;
+    border-radius: 10px;
+    margin-top: 40px;
+}
+
+.activities-section {
+    background-color: aquamarine;
+    margin-top: none;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    color: blue;
+}
+
+.columns {
+    display: flex;
+    justify-content: center;
+    border: 50px;
+}
+
+.activity-img {
+    width: 200px;
+    height: 200px;
+    border-radius: 50%;
+}
+
+.activity {
+    width: 300px;
+}
+
+.guide-img {
+    width: 120px;
+    height: 170px;
+
+}
+
+.guide {
+    width: 340px;
+    display: flex;
+    justify-content: center;
+    background-color: aqua;
+    border-bottom: 5px solid blue;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 50px;
+    padding: 10px 10px;
+    
+}
+
+.guide-text {
+    width: 200px;
+}
